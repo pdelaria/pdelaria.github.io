@@ -12,7 +12,11 @@
   </section>
    <section id="music">
     <h2>Discography</h2>
-    <p>Coming Soon</p>
+    <article>
+      <h3>Quadrophenia</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/Quadrophenia_%28album%29.jpg
+      <a href="https://en.wikipedia.org/wiki/Quadrophenia">find out more about this album</a>
+    </article>
   </section>
 </body>
 </html>
