@@ -7,3 +7,4 @@ HTML CSS CLASS
 - explore HTML elements and structure
 - cards activity
 - add some CSS
+- create some CSS style
