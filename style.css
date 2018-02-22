@@ -2,3 +2,12 @@ body{
   background-color: lightgrey;
   font-family: arial;
 }
+
+article{
+  background-color: blue;
+  width: 30%
+  border-style: solid;
+  border-color: yellow;
+  border-width: 2px;
+  padding: 3px;
+}
